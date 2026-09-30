@@ -1,3 +1,15 @@
+#Agentic Running Game
+## Petar Bilkic
+### Run "./run-game.sh" in CLI for game to start.
+
+
+
+
+
+
+
+
+
 # cpp-container-template
 
 ## Getting Started
